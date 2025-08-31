@@ -1,4 +1,4 @@
-# Awesome SWE-bench Research [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome SWE-bench Research
 
 A curated list of research papers, benchmark, frameworks, and resources related to **SWE-bench** and large language models for software engineering.
 This repository aims to provide a comprehensive and regularly updated collection of works on evaluation, methods, and applications.
@@ -61,29 +61,27 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 ### Benchmark
 
-* **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?**
-  *Jimenez et al., 2024.10*. \[[paper](https://arxiv.org/abs/2310.06770)], \[[code](https://github.com/SWE-bench/SWE-bench/tree/main)], \[[leaderboard](https://www.swebench.com/)], \[[dataset](https://huggingface.co/datasets/princeton-nlp/SWE-bench)]
+- **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?**<br> 
+  *Jimenez et al., 2024* [[Paper](https://arxiv.org/abs/2310.06770)][[GitHub](https://github.com/SWE-bench/SWE-bench/tree/main)][[Leaderboard](https://www.swebench.com/)][[Dataset](https://huggingface.co/datasets/princeton-nlp/SWE-bench)] <br>
 
-* **SWE-bench Multimodal**
-  *Yang et al., 2024.10*. \[[paper](https://arxiv.org/abs/2410.03859)], \[[leaderboard](https://www.swebench.com/multimodal.html)]
+- **SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?** <br>
+  *Yang et al., 2024* [[Paper](https://arxiv.org/abs/2410.03859)][[GitHub](https://github.com/SWE-bench/SWE-bench/tree/main)][[Leaderboard](https://www.swebench.com/multimodal.html)]
 
-* **SWE-bench Multilingual**
-  *Khandpur et al., 2024*. \[[webpage](https://kabirk.com/multilingual)], \[[dataset](https://huggingface.co/datasets/SWE-bench/SWE-bench_Multilingual)]
+- **SWE-bench Multilingual** <br>
+  *Khandpur et al., 2024* [[Webpage](https://kabirk.com/multilingual)][[GitHub](https://github.com/SWE-bench/SWE-bench/tree/main)][[Dataset](https://huggingface.co/datasets/SWE-bench/SWE-bench_Multilingual)]
 
-* **Multi-SWE-bench**
-  *Zan et al., 2025.04*. \[[paper](https://arxiv.org/pdf/2504.02605)], \[[code](https://github.com/multi-swe-bench/multi-swe-bench)], \[[leaderboard](https://multi-swe-bench.github.io/)]
+- **Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving** <br>
+  *Zan et al., 2025* [[Paper](https://arxiv.org/pdf/2504.02605)][[GitHub](https://github.com/multi-swe-bench/multi-swe-bench)] [[Leaderboard](https://multi-swe-bench.github.io/)]
 
-* **SWE-PolyBench**
-  *Rashid et al., 2025.04*. \[[paper](https://arxiv.org/abs/2504.08703)], \[[code](https://github.com/amazon-science/SWE-PolyBench)], \[[leaderboard](https://amazon-science.github.io/SWE-PolyBench/)], \[[dataset](https://huggingface.co/datasets/AmazonScience/SWE-PolyBench)]
+- **SWE-PolyBench: A Multi-language Benchmark for Repository Level Evaluation of Coding Agents** <br>
+  *Rashid et al., 2025* [[Paper](https://arxiv.org/abs/2504.08703)][[GitHub](https://github.com/amazon-science/SWE-PolyBench)][[Leaderboard](https://amazon-science.github.io/SWE-PolyBench/)][[Dataset](https://huggingface.co/datasets/AmazonScience/SWE-PolyBench)]
 
-* **SWE-bench Live**
-  *Zhang et al., 2025.05*. \[[paper](https://arxiv.org/abs/2505.23419)], \[[code](https://github.com/microsoft/SWE-bench-Live)], \[[leaderboard](https://swe-bench-live.github.io/)], \[[dataset](https://huggingface.co/datasets/SWE-bench-Live/SWE-bench-Live)]
+- **SWE-bench Goes Live!** <br>
+  *Zhang et al., 2025* [[Paper](https://arxiv.org/abs/2505.23419)][[GitHub](https://github.com/microsoft/SWE-bench-Live)][[Leaderboard](https://swe-bench-live.github.io/)][[Dataset](https://huggingface.co/datasets/SWE-bench-Live/SWE-bench-Live)]
 
-* **SWT-Bench**
-  *Mündler et al., 2024.06*. \[[paper](https://arxiv.org/abs/2406.12952)], \[[code](https://github.com/logic-star-ai/swt-bench)], \[[leaderboard](https://swtbench.com/)]
+- **SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents** <br>
+  *Mündler et al., 2024* [[Paper](https://arxiv.org/abs/2406.12952)][[GitHub](https://github.com/logic-star-ai/swt-bench)][[Leaderboard](https://swtbench.com/)]
 
-* **SWE-rebench**
-  *Badertdinov et al., 2025.05*. \[[paper](https://arxiv.org/abs/2505.20411)], \[[dataset](https://huggingface.co/datasets/nebius/SWE-rebench)], \[[leaderboard](https://swe-rebench.com/leaderboard)]
 
 ---
 
@@ -180,11 +178,7 @@ This repository aims to provide a comprehensive and regularly updated collection
 ## Resources
 
 * [SWE-bench Leaderboard](https://www.swebench.com/)
-* [SWE-bench Multimodal Leaderboard](https://www.swebench.com/multimodal.html)
-* [SWE-bench Live Leaderboard](https://swe-bench-live.github.io/)
-* [SWT-Bench Leaderboard](https://swtbench.com/)
-* [SWE-PolyBench Leaderboard](https://amazon-science.github.io/SWE-PolyBench/)
-* [SWE-rebench Leaderboard](https://swe-rebench.com/leaderboard)
+* [Awesome-LLM-SWE-Bench](https://github.com/wasiahmad/Awesome-LLM-SWE-Bench)
 * [Datasets on Hugging Face](https://huggingface.co/datasets)
 
 ---
