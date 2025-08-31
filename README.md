@@ -110,6 +110,6 @@ This repository aims to provide a comprehensive and regularly updated collection
 We welcome contributions! Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
 
 ### Contributors
-<a href="https://github.com/your-username/Awesome-SWE-bench/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=your-username/Awesome-SWE-bench" />
+<a href="https://github.com/goodmanpzh/Awesome-SWE-bench/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=goodmanpzh/Awesome-SWE-bench" />
 </a>
