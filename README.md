@@ -36,15 +36,19 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 ## Framework
 
-* **OpenHands: An Open Platform for AI Software Developers as Generalist Agents**
+* **OpenHands: An Open Platform for AI Software Developers as Generalist Agents** <br>
   *Wang et al., 2024.07*. Generalist AI coding agent platform.
-  \[[Paper](https://arxiv.org/abs/2407.16741)], \[[Code](https://github.com/All-Hands-AI/OpenHands)]
+  \[[Paper](https://arxiv.org/abs/2407.16741)], \[[code](https://github.com/All-Hands-AI/OpenHands)]
 
-* **Agentless: Demystifying LLM-based Software Engineering Agents**
+* **Agentless: Demystifying LLM-based Software Engineering Agents** <br>
   *Xia et al., 2024.07*. \[[pdf](https://arxiv.org/abs/2407.01489)], \[[code](https://github.com/OpenAutoCoder/Agentless)]
   ![](https://img.shields.io/badge/Arxiv-orange)
 
+* **mini-SWE-agent** <br>
+  \[[code](https://github.com/SWE-agent/mini-SWE-agent)]
 
+* **SWE-agent** <br>
+  \\[[code](https://github.com/SWE-agent/SWE-agent)]
 ---
 
 ## Papers
@@ -82,6 +86,10 @@ This repository aims to provide a comprehensive and regularly updated collection
 - **SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents** <br>
   *Mündler et al., 2024* [[Paper](https://arxiv.org/abs/2406.12952)][[GitHub](https://github.com/logic-star-ai/swt-bench)][[Leaderboard](https://swtbench.com/)]
 
+- **SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks** <br>
+  *Lianghong Guo et al., 2025.06* [[Paper](https://arxiv.org/abs/2506.10954)][[GitHub](https://github.com/DeepSoftwareAnalytics/swe-factory)] 
+
+
 
 ---
 
@@ -91,7 +99,7 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 ### Training & Fine-tuning
 
-* **SWE-Gym: Training Software Engineering Agents and Verifiers** <br>
+* **SWE-Gym: Training Software Engineering Agents and Verifiers with SWE-Gym** <br>
   *Pan et al., 2024.12*. Provides training and evaluation environment for SWE agents.
   \[[Paper](https://arxiv.org/pdf/2412.21139)], \[[Code](https://github.com/SWE-Gym/SWE-Gym)], \[[Models](https://huggingface.co/SWE-Gym)]
 
@@ -110,6 +118,12 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **SWE-smith: Scaling Data for Software Engineering Agents** <br>
   *Yang et al., 2025.04*. \[[pdf](https://arxiv.org/abs/2504.21798)], \[[code](https://github.com/SWE-bench/SWE-smith)], \[[web](https://swesmith.com/)]
 
+* **Skywork-SWE: Unveiling Data Scaling Laws for Software Engineering in LLMs** <br>
+  *Zeng et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.19290)]
+
+* **Agent-RLVR: Training Software Engineering Agents via Guidance and Environment Rewards** <br>
+  *Da et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.11425)]
+
 ---
 
 
@@ -118,11 +132,14 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 ### Agentic Coding
 
-* **SWE-agent** <br>
+* **SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering** <br>
   *Yang et al., 2024.05*. \[[pdf](https://arxiv.org/abs/2405.15793)], \[[code](https://github.com/SWE-agent/SWE-agent)]
 
-* **Nemotron-CORTEXA** <br>
+* **NEMOTRON-CORTEXA: Enhancing LLM Agents for Software Engineering Tasks via Improved Localization and Solution Diversity** <br>
   *Sohrabizadeh et al., 2025.05*. \[[pdf](https://openreview.net/pdf?id=k6p8UKRdH7)]
+
+* **Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute** <br>
+  *Ma et al., 2025.03*. [[pdf](https://arxiv.org/abs/2503.23803)], [[code](https://github.com/yingweima2022/SWE-Reasoner)]
 
 ---
 
@@ -169,6 +186,9 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **UTBoost: Rigorous Evaluation of Coding Agents on SWE-Bench** <br>
   *Yu et al., 2025.06*. \[[pdf](https://arxiv.org/abs/2506.09289)], \[[code](https://github.com/CUHK-Shenzhen-SE/UTBoost)]
 
+- **SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents** <br>
+  *Mündler et al., 2024*. BenchMark fot Testing Generation. [[Paper](https://arxiv.org/abs/2406.12952)][[GitHub](https://github.com/logic-star-ai/swt-bench)][[Leaderboard](https://swtbench.com/)]
+
 ---
 
 
@@ -179,7 +199,6 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 * [SWE-bench Leaderboard](https://www.swebench.com/)
 * [Awesome-LLM-SWE-Bench](https://github.com/wasiahmad/Awesome-LLM-SWE-Bench)
-* [Datasets on Hugging Face](https://huggingface.co/datasets)
 
 ---
 
