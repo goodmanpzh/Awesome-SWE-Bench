@@ -1,6 +1,6 @@
 # Awesome SWE-bench Research [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of research papers, benchmarks, frameworks, and resources related to **SWE-bench** and large language models for software engineering.  
+A curated list of research papers, benchmark, frameworks, and resources related to **SWE-bench** and large language models for software engineering.  
 This repository aims to provide a comprehensive and regularly updated collection of works on evaluation, methods, and applications.
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](./LICENSE) 
@@ -11,30 +11,24 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 ## Content
 
-- [Survey](#survey)
+
 - [Framework](#framework)
 - [Papers](#papers)
-  - [Benchmarks](#benchmarks)
-  - [Issue Location](#issue-location)
-  - [Bug Fix](#bug-fix)
+  - [Survey](#survey)
   - [Training & Fine-tuning](#training--fine-tuning)
   - [Agent-based Methods](#agent-based-methods)
+  - [Benchmark](#benchmark)
+  - [Issue Location](#issue-location)
+  - [Bug Fix](#bug-fix)
   - [Other Methods](#other-methods)
 - [Resources](#resources)
-- [Blogs](#blogs)
-- [Talks](#talks)
+- [Blogs & Talks](#blogs & talks)
 - [Contribution](#contribution)
-  - [Contributors](#contributors)
-  - [Contributing to this list](#contributing-to-this-list)
+  <!-- - [Contributors](#contributors) -->
+  <!-- - [Contributing to this list](#contributing-to-this-list) -->
 
 ---
 
-## Survey
-
-- **Paper Title**  
-  *Authors*. [[pdf](link)], [[code](link)], YYYY.MM. ![](https://img.shields.io/badge/Arxiv-orange)
-
----
 
 ## Framework
 
@@ -46,12 +40,31 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 ## Papers
 
-### Benchmarks
+### Survey
+
+- **Paper Title**  
+  *Authors*. [[pdf](link)], [[code](link)], YYYY.MM. ![](https://img.shields.io/badge/Arxiv-orange)
+
+---
+
+### Benchmark
 - **SWE-bench** - Original benchmark introducing issue resolution tasks for LLMs.  
   *Authors*. [[paper](link)], [[code](link)], [[leaderboard](link)]
 
 - **SWE-bench Verified**  
   *Authors*. [[paper](link)], [[code](link)], YYYY.MM. ![](https://img.shields.io/badge/Arxiv-orange)
+
+---
+
+### Training & Fine-tuning
+- **Paper Title**  
+  *Authors*. [[pdf](link)], [[code](link)], YYYY.MM.
+
+---
+
+### Agentic Coding
+- **Paper Title**  
+  *Authors*. [[pdf](link)], [[code](link)], YYYY.MM.
 
 ---
 
@@ -62,18 +75,6 @@ This repository aims to provide a comprehensive and regularly updated collection
 ---
 
 ### Bug Fix
-- **Paper Title**  
-  *Authors*. [[pdf](link)], [[code](link)], YYYY.MM.
-
----
-
-### Training & Fine-tuning
-- **Paper Title**  
-  *Authors*. [[pdf](link)], [[code](link)], YYYY.MM.
-
----
-
-### Agent-based Methods
 - **Paper Title**  
   *Authors*. [[pdf](link)], [[code](link)], YYYY.MM.
 
@@ -93,23 +94,18 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 ---
 
-## Blogs
+## Blogs & Talks
 
 - [Blog Title](link) - Short description.
-
----
-
-## Talks
-
 - [Talk Title](link) - Speaker, Conference/Workshop, link.
 
 ---
 
 ## Contribution
 
-We welcome contributions! Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
+We welcome contributions! There are cases where we miss important works in this field, please feel free to contribute and promote your awesome work or other related works here! Thanks for the efforts in advance.
 
-### Contributors
+<!-- ### Contributors
 <a href="https://github.com/goodmanpzh/Awesome-SWE-bench/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=goodmanpzh/Awesome-SWE-bench" />
-</a>
+</a> -->
