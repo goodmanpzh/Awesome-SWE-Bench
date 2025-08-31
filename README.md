@@ -65,30 +65,29 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 ### Benchmark
 
-- **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?**<br> 
-  *Jimenez et al., 2024* [[pdf](https://arxiv.org/abs/2310.06770)][[code](https://github.com/SWE-bench/SWE-bench/tree/main)][[Leaderboard](https://www.swebench.com/)][[Dataset](https://huggingface.co/datasets/princeton-nlp/SWE-bench)] <br>
+- **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?** <br>
+  *Jimenez et al., 2024*. [[pdf](https://arxiv.org/abs/2310.06770)], [[code](https://github.com/SWE-bench/SWE-bench/tree/main)], [[leaderboard](https://www.swebench.com/)], [[dataset](https://huggingface.co/datasets/princeton-nlp/SWE-bench)]
 
 - **SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?** <br>
-  *Yang et al., 2024* [[pdf](https://arxiv.org/abs/2410.03859)][[code](https://github.com/SWE-bench/SWE-bench/tree/main)][[Leaderboard](https://www.swebench.com/multimodal.html)]
+  *Yang et al., 2024*. [[pdf](https://arxiv.org/abs/2410.03859)], [[code](https://github.com/SWE-bench/SWE-bench/tree/main)], [[leaderboard](https://www.swebench.com/multimodal.html)]
 
 - **SWE-bench Multilingual** <br>
-  *Khandpur et al., 2024* [[Webpage](https://kabirk.com/multilingual)][[code](https://github.com/SWE-bench/SWE-bench/tree/main)][[Dataset](https://huggingface.co/datasets/SWE-bench/SWE-bench_Multilingual)]
+  *Khandpur et al., 2024*. [[webpage](https://kabirk.com/multilingual)], [[code](https://github.com/SWE-bench/SWE-bench/tree/main)], [[dataset](https://huggingface.co/datasets/SWE-bench/SWE-bench_Multilingual)]
 
 - **Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving** <br>
-  *Zan et al., 2025* [[pdf](https://arxiv.org/pdf/2504.02605)][[code](https://github.com/multi-swe-bench/multi-swe-bench)] [[Leaderboard](https://multi-swe-bench.github.io/)]
+  *Zan et al., 2025*. [[pdf](https://arxiv.org/pdf/2504.02605)], [[code](https://github.com/multi-swe-bench/multi-swe-bench)], [[leaderboard](https://multi-swe-bench.github.io/)]
 
 - **SWE-PolyBench: A Multi-language Benchmark for Repository Level Evaluation of Coding Agents** <br>
-  *Rashid et al., 2025* [[pdf](https://arxiv.org/abs/2504.08703)][[code](https://github.com/amazon-science/SWE-PolyBench)][[Leaderboard](https://amazon-science.github.io/SWE-PolyBench/)][[Dataset](https://huggingface.co/datasets/AmazonScience/SWE-PolyBench)]
+  *Rashid et al., 2025*. [[pdf](https://arxiv.org/abs/2504.08703)], [[code](https://github.com/amazon-science/SWE-PolyBench)], [[leaderboard](https://amazon-science.github.io/SWE-PolyBench/)], [[dataset](https://huggingface.co/datasets/AmazonScience/SWE-PolyBench)]
 
 - **SWE-bench Goes Live!** <br>
-  *Zhang et al., 2025* [[pdf](https://arxiv.org/abs/2505.23419)][[code](https://github.com/microsoft/SWE-bench-Live)][[Leaderboard](https://swe-bench-live.github.io/)][[Dataset](https://huggingface.co/datasets/SWE-bench-Live/SWE-bench-Live)]
+  *Zhang et al., 2025*. [[pdf](https://arxiv.org/abs/2505.23419)], [[code](https://github.com/microsoft/SWE-bench-Live)], [[leaderboard](https://swe-bench-live.github.io/)], [[dataset](https://huggingface.co/datasets/SWE-bench-Live/SWE-bench-Live)]
 
 - **SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents** <br>
-  *Mündler et al., 2024* [[pdf](https://arxiv.org/abs/2406.12952)][[code](https://github.com/logic-star-ai/swt-bench)][[Leaderboard](https://swtbench.com/)]
+  *Mündler et al., 2024*. [[pdf](https://arxiv.org/abs/2406.12952)], [[code](https://github.com/logic-star-ai/swt-bench)], [[leaderboard](https://swtbench.com/)]
 
 - **SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks** <br>
-  *Lianghong Guo et al., 2025.06* [[pdf](https://arxiv.org/abs/2506.10954)][[code](https://github.com/DeepSoftwareAnalytics/swe-factory)] 
-
+  *Guo et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.10954)], [[code](https://github.com/DeepSoftwareAnalytics/swe-factory)]
 
 
 ---
@@ -101,7 +100,7 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 * **SWE-Gym: Training Software Engineering Agents and Verifiers with SWE-Gym** <br>
   *Pan et al., 2024.12*. Provides training and evaluation environment for SWE agents.
-  \[[pdf](https://arxiv.org/pdf/2412.21139)], \[[Code](https://github.com/SWE-Gym/SWE-Gym)], \[[models](https://huggingface.co/SWE-Gym)]
+  \[[pdf](https://arxiv.org/pdf/2412.21139)], \[[code](https://github.com/SWE-Gym/SWE-Gym)], \[[models](https://huggingface.co/SWE-Gym)]
 
 * **PatchPilot: A Cost-Efficient SWE Agent with Early Formal Verification** <br>
   *Li et al., 2025.02*. \[[pdf](https://arxiv.org/abs/2502.02747)], \[[code](https://github.com/ucsb-mlsec/PatchPilot)]
@@ -187,7 +186,7 @@ This repository aims to provide a comprehensive and regularly updated collection
   *Yu et al., 2025.06*. \[[pdf](https://arxiv.org/abs/2506.09289)], \[[code](https://github.com/CUHK-Shenzhen-SE/UTBoost)]
 
 - **SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents** <br>
-  *Mündler et al., 2024*. BenchMark fot Testing Generation. [[pdf](https://arxiv.org/abs/2406.12952)][[code](https://github.com/logic-star-ai/swt-bench)][[Leaderboard](https://swtbench.com/)]
+  *Mündler et al., 2024*. BenchMark fot Testing Generation. [[pdf](https://arxiv.org/abs/2406.12952)], \[[code](https://github.com/logic-star-ai/swt-bench)], \[[Leaderboard](https://swtbench.com/)]
 
 ---
 
