@@ -48,12 +48,30 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 * **SWE-agent** 
   \[[code](https://github.com/SWE-agent/SWE-agent)]
+
+* **Trae Agent: An LLM-based Agent for Software Engineering with Test-time Scaling** <br>
+  *Trae Research Team et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.23370)], [[code](https://github.com/bytedance/trae-agent)]
+
 ---
 
 ## Papers
 
 ### Survey
 
+* **Automatic Programming: Large Language Models and Beyond** <br>
+  *2024.05*. [[pdf](https://arxiv.org/abs/2405.02213)]
+
+* **Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models** <br>
+  *2024.10*. [[pdf](https://arxiv.org/abs/2410.09012)]
+
+* **Deep Learning-based Software Engineering: Progress, Challenges, and Opportunities** <br>
+  *2024.10*. [[pdf](https://arxiv.org/abs/2410.13110)]
+
+* **Challenges and Paths Towards AI for Software Engineering** <br>
+  *2025.03*. [[pdf](https://arxiv.org/abs/2503.22625)]
+
+* **Software Development Life Cycle Perspective: A Survey of Benchmarks for CodeLLMs and Agents** <br>
+  *2025.05*. [[pdf](https://arxiv.org/abs/2505.05283)]
 
 
 ---
@@ -122,6 +140,18 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **Agent-RLVR: Training Software Engineering Agents via Guidance and Environment Rewards** <br>
   *Da et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.11425)]
 
+* **Training Long-Context, Multi-Turn Software Engineering Agents with Reinforcement Learning** <br>
+  *Zhang et al., 2025.08*. [[pdf](https://arxiv.org/abs/2508.03501)]
+
+* **SWE-Bench-CL: Continual Learning for Coding Agents** <br>
+  *Kocman et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.00014)], [[code](https://github.com/ristokocman/swe-bench-cl)]
+
+* **SWE-Flow: Synthesizing Software Engineering Data in a Test-Driven Manner** <br>
+  *Luo et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.09003)], [[code](https://github.com/louis-lcz/SWE-Flow)]
+
+* **Repository Structure-Aware Training Makes SLMs Better Issue Resolver** <br>
+  *Zhou et al., 2024.12*. [[pdf](https://arxiv.org/abs/2412.19031)]
+
 ---
 
 
@@ -139,6 +169,20 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute** <br>
   *Ma et al., 2025.03*. [[pdf](https://arxiv.org/abs/2503.23803)], [[code](https://github.com/yingweima2022/SWE-Reasoner)]
 
+* **USEagent: Unified Software Engineering Agent as AI Software Engineer** <br>
+  *2025.06*. [[pdf](https://arxiv.org/abs/2506.14683)]
+
+* **SemAgent: A Semantics Aware Program Repair Agent** <br>
+  *2025.06*. [[pdf](https://arxiv.org/abs/2506.16650)]
+
+* **SWE-Exp: Experience-Driven Software Issue Resolution** <br>
+  *Da et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.23361)]
+
+* **Guided Search Strategies in Non-Serializable Environments with Applications to Software Engineering Agents** <br>
+  *Srinivasa et al., 2025.05*. [[pdf](https://arxiv.org/abs/2505.13652)]
+
+* **CodeR: Issue Resolving with Multi-Agent and Task Graphs** <br>
+  *Ma et al., 2024.06*. [[pdf](https://arxiv.org/abs/2406.01304)], [[code](https://github.com/yingweima2022/CodeR)]
 ---
 
 
@@ -172,6 +216,9 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 * **SWE-Synth: Synthesizing Verifiable Bug-Fix Data** <br>
   *Pham et al., 2025.04*. \[[pdf](https://arxiv.org/abs/2504.14757)], \[[code](https://github.com/FSoft-AI4Code/SWE-Synth)], \[[dataset](https://huggingface.co/swesynth)]
+
+* **Exploring the Potential of Conversational Test Suite Based Program Repair on SWE-bench** <br>
+  *Fan et al., 2024.10*. [[pdf](https://arxiv.org/abs/2410.04485)]
 
 ---
 
