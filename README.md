@@ -60,20 +60,19 @@ This repository aims to provide a comprehensive and regularly updated collection
 ### Survey
 
 * **Automatic Programming: Large Language Models and Beyond** <br>
-  *2024.05*. [[pdf](https://arxiv.org/abs/2405.02213)]
+  *Tan et al., 2024.05*. [[pdf](https://arxiv.org/abs/2405.02213)]
 
 * **Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models** <br>
-  *2024.10*. [[pdf](https://arxiv.org/abs/2410.09012)]
+  *Acomb et al., 2024.05*. [[pdf](https://arxiv.org/abs/2405.04586)]
 
 * **Deep Learning-based Software Engineering: Progress, Challenges, and Opportunities** <br>
-  *2024.10*. [[pdf](https://arxiv.org/abs/2410.13110)]
+  *Li et al., 2023.10*. [[pdf](https://arxiv.org/abs/2310.13110)]
 
 * **Challenges and Paths Towards AI for Software Engineering** <br>
-  *2025.03*. [[pdf](https://arxiv.org/abs/2503.22625)]
+  *Hou et al., 2024.03*. [[pdf](https://arxiv.org/abs/2403.20120)]
 
 * **Software Development Life Cycle Perspective: A Survey of Benchmarks for CodeLLMs and Agents** <br>
-  *2025.05*. [[pdf](https://arxiv.org/abs/2505.05283)]
-
+  *Zhu et al., 2024.05*. [[pdf](https://arxiv.org/abs/2405.05283)]
 
 ---
 
