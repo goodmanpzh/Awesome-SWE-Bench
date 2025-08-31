@@ -41,10 +41,11 @@ This repository aims to provide a comprehensive and regularly updated collection
   \[[pdf](https://arxiv.org/abs/2407.16741)], \[[code](https://github.com/All-Hands-AI/OpenHands)]
 
 * **Agentless: Demystifying LLM-based Software Engineering Agents** <br>
-  *Xia et al., 2024.07*. \[[pdf](https://arxiv.org/abs/2407.01489)], \[[code](https://github.com/OpenAutoCoder/Agentless)]
+  *Xia et al., 2024.07*. Localization, fix, verification.
+  \[[pdf](https://arxiv.org/abs/2407.01489)], \[[code](https://github.com/OpenAutoCoder/Agentless)]
 
 * **mini-SWE-agent** 
-  \[[code](https://github.com/SWE-agent/mini-SWE-agent)]
+  *2025.05*. \[[code](https://github.com/SWE-agent/mini-SWE-agent)]
 
 * **SWE-agent** 
   \[[code](https://github.com/SWE-agent/SWE-agent)]
@@ -82,30 +83,35 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 ### Benchmark
 
-- **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?** <br>
+* **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?** <br>
   *Jimenez et al., 2024*. [[pdf](https://arxiv.org/abs/2310.06770)], [[code](https://github.com/SWE-bench/SWE-bench/tree/main)], [[leaderboard](https://www.swebench.com/)], [[dataset](https://huggingface.co/datasets/princeton-nlp/SWE-bench)]
 
-- **SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?** <br>
+* **SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?** <br>
   *Yang et al., 2024*. [[pdf](https://arxiv.org/abs/2410.03859)], [[code](https://github.com/SWE-bench/SWE-bench/tree/main)], [[leaderboard](https://www.swebench.com/multimodal.html)]
 
-- **SWE-bench Multilingual** <br>
+* **SWE-bench Multilingual** <br>
   *Khandpur et al., 2024*. [[webpage](https://kabirk.com/multilingual)], [[code](https://github.com/SWE-bench/SWE-bench/tree/main)], [[dataset](https://huggingface.co/datasets/SWE-bench/SWE-bench_Multilingual)]
 
-- **Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving** <br>
+* **Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving** <br>
   *Zan et al., 2025*. [[pdf](https://arxiv.org/pdf/2504.02605)], [[code](https://github.com/multi-swe-bench/multi-swe-bench)], [[leaderboard](https://multi-swe-bench.github.io/)]
 
-- **SWE-PolyBench: A Multi-language Benchmark for Repository Level Evaluation of Coding Agents** <br>
+* **SWE-PolyBench: A Multi-language Benchmark for Repository Level Evaluation of Coding Agents** <br>
   *Rashid et al., 2025*. [[pdf](https://arxiv.org/abs/2504.08703)], [[code](https://github.com/amazon-science/SWE-PolyBench)], [[leaderboard](https://amazon-science.github.io/SWE-PolyBench/)], [[dataset](https://huggingface.co/datasets/AmazonScience/SWE-PolyBench)]
 
-- **SWE-bench Goes Live!** <br>
+* **SWE-bench Goes Live!** <br>
   *Zhang et al., 2025*. [[pdf](https://arxiv.org/abs/2505.23419)], [[code](https://github.com/microsoft/SWE-bench-Live)], [[leaderboard](https://swe-bench-live.github.io/)], [[dataset](https://huggingface.co/datasets/SWE-bench-Live/SWE-bench-Live)]
 
-- **SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents** <br>
+* **SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents** <br>
   *Mündler et al., 2024*. [[pdf](https://arxiv.org/abs/2406.12952)], [[code](https://github.com/logic-star-ai/swt-bench)], [[leaderboard](https://swtbench.com/)]
 
-- **SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks** <br>
+* **SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks** <br>
   *Guo et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.10954)], [[code](https://github.com/DeepSoftwareAnalytics/swe-factory)]
 
+* **SWE-Bench-CL: Continual Learning for Coding Agents** <br>
+  *Kocman et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.00014)]
+
+* **SPICE: An Automated SWE-Bench Labeling Pipeline for Issue Clarity, Test Coverage, and Effort Estimation** <br>
+  *Oliva et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.09108)]
 
 ---
 
@@ -143,9 +149,6 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **Training Long-Context, Multi-Turn Software Engineering Agents with Reinforcement Learning** <br>
   *Zhang et al., 2025.08*. [[pdf](https://arxiv.org/abs/2508.03501)]
 
-* **SWE-Bench-CL: Continual Learning for Coding Agents** <br>
-  *Kocman et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.00014)]
-
 * **SWE-Flow: Synthesizing Software Engineering Data in a Test-Driven Manner** <br>
   *Luo et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.09003)]
 
@@ -169,11 +172,11 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute** <br>
   *Ma et al., 2025.03*. [[pdf](https://arxiv.org/abs/2503.23803)], [[code](https://github.com/yingweima2022/SWE-Reasoner)]
 
-* **USEagent: Unified Software Engineering Agent as AI Software Engineer** <br>
-  *2025.06*. [[pdf](https://arxiv.org/abs/2506.14683)]
+* **Unified Software Engineering Agent as AI Software Engineer** <br>
+  *Applis et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.14683)]
 
 * **SemAgent: A Semantics Aware Program Repair Agent** <br>
-  *2025.06*. [[pdf](https://arxiv.org/abs/2506.16650)]
+  *Pabba et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.16650)]
 
 * **SWE-Exp: Experience-Driven Software Issue Resolution** <br>
   *Da et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.23361)]
@@ -231,8 +234,11 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **UTBoost: Rigorous Evaluation of Coding Agents on SWE-Bench** <br>
   *Yu et al., 2025.06*. \[[pdf](https://arxiv.org/abs/2506.09289)], \[[code](https://github.com/CUHK-Shenzhen-SE/UTBoost)]
 
-- **SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents** <br>
+* **SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents** <br>
   *Mündler et al., 2024*. BenchMark fot Testing Generation. [[pdf](https://arxiv.org/abs/2406.12952)], \[[code](https://github.com/logic-star-ai/swt-bench)], \[[Leaderboard](https://swtbench.com/)]
+
+* **Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks** <br>
+  *Tao et al., 2025.05*. [[pdf](https://arxiv.org/abs/2505.16901)]
 
 ---
 
