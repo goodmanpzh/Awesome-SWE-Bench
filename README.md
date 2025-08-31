@@ -42,13 +42,12 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 * **Agentless: Demystifying LLM-based Software Engineering Agents** <br>
   *Xia et al., 2024.07*. \[[pdf](https://arxiv.org/abs/2407.01489)], \[[code](https://github.com/OpenAutoCoder/Agentless)]
-  ![](https://img.shields.io/badge/Arxiv-orange)
 
-* **mini-SWE-agent** <br>
+* **mini-SWE-agent** 
   \[[code](https://github.com/SWE-agent/mini-SWE-agent)]
 
-* **SWE-agent** <br>
-  \\[[code](https://github.com/SWE-agent/SWE-agent)]
+* **SWE-agent** 
+  \[[code](https://github.com/SWE-agent/SWE-agent)]
 ---
 
 ## Papers
