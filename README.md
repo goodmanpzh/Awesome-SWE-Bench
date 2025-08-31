@@ -59,15 +59,6 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 ### Survey
 
-* **Automatic Programming: Large Language Models and Beyond** <br>
-  *Tan et al., 2024.05*. [[pdf](https://arxiv.org/abs/2405.02213)]
-
-* **Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models** <br>
-  *Acomb et al., 2024.05*. [[pdf](https://arxiv.org/abs/2410.09012)]
-
-* **Deep Learning-based Software Engineering: Progress, Challenges, and Opportunities** <br>
-  *Li et al., 2023.10*. [[pdf](https://arxiv.org/abs/2410.13110)]
-
 * **Challenges and Paths Towards AI for Software Engineering** <br>
   *Hou et al., 2024.03*. [[pdf](https://arxiv.org/abs/2503.22625)]
 
