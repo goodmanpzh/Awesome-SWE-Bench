@@ -144,10 +144,10 @@ This repository aims to provide a comprehensive and regularly updated collection
   *Zhang et al., 2025.08*. [[pdf](https://arxiv.org/abs/2508.03501)]
 
 * **SWE-Bench-CL: Continual Learning for Coding Agents** <br>
-  *Kocman et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.00014)], [[code](https://github.com/ristokocman/swe-bench-cl)]
+  *Kocman et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.00014)]
 
 * **SWE-Flow: Synthesizing Software Engineering Data in a Test-Driven Manner** <br>
-  *Luo et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.09003)], [[code](https://github.com/louis-lcz/SWE-Flow)]
+  *Luo et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.09003)]
 
 * **Repository Structure-Aware Training Makes SLMs Better Issue Resolver** <br>
   *Zhou et al., 2024.12*. [[pdf](https://arxiv.org/abs/2412.19031)]
