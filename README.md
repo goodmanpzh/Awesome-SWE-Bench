@@ -65,6 +65,8 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **Software Development Life Cycle Perspective: A Survey of Benchmarks for CodeLLMs and Agents** <br>
   *Zhu et al., 2024.05*. [[pdf](https://arxiv.org/abs/2505.05283)]
 
+* **A Survey of LLM-based Automated Program Repair: Taxonomies, Design Paradigms, and Applications** <br>
+  *Yang et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.23749)]
 ---
 
 
@@ -102,6 +104,8 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **SPICE: An Automated SWE-Bench Labeling Pipeline for Issue Clarity, Test Coverage, and Effort Estimation** <br>
   *Oliva et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.09108)]
 
+* **LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?** <br>
+  *Zheng et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.11928)]
 ---
 
 
@@ -238,6 +242,15 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **SWE-Exp: Experience-Driven Software Issue Resolution** <br>
   *Chen et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.23361)]
 
+* **Prometheus: Unified Knowledge Graphs for Issue Resolution in Multilingual Codebases** <br>
+  *Chen et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.19942)]
+
+* **Enhancing Repository-Level Software Repair via Repository-Aware Knowledge Graphs** <br>
+  *Yang et al., 2025.03*. [[pdf](https://arxiv.org/abs/2503.21710)]
+
+* **Input Reduction Enhanced LLM-based Program Repair** <br>
+  *Yang et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.15251)]
+
 ---
 
 
@@ -269,6 +282,13 @@ This repository aims to provide a comprehensive and regularly updated collection
 ## Contribution
 
 We welcome contributions! There are cases where we miss important works in this field, please feel free to contribute and promote your awesome work or other related works here! Thanks for the efforts in advance.
+
+
+
+
+
+
+
 
 
 
