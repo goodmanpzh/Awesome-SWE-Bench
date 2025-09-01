@@ -104,8 +104,6 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **SPICE: An Automated SWE-Bench Labeling Pipeline for Issue Clarity, Test Coverage, and Effort Estimation** <br>
   *Oliva et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.09108)]
 
-* **LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?** <br>
-  *Zheng et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.11928)]
 ---
 
 
