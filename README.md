@@ -269,9 +269,8 @@ This repository aims to provide a comprehensive and regularly updated collection
   *Anthropic Engineering, 2025.05*. [[blog](https://www.anthropic.com/engineering/swe-bench-sonnet)]
 
 * **Seed-Coder: Let the Code Model Curate Data for Itself** <br>
-  *ByteDance Seed et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.03524)]
+  *ByteDance Seed et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.03524)], [[code](https://github.com/ByteDance-Seed/Seed-Coder)]
 ---
-
 
 
 
