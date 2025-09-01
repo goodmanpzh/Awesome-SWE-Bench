@@ -36,6 +36,9 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 ## Framework
 
+* **SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering** <br>
+  *Yang et al., 2024.05*. [[pdf](https://arxiv.org/abs/2405.15793)], [[code](https://github.com/SWE-agent/SWE-agent)]  
+
 * **OpenHands: An Open Platform for AI Software Developers as Generalist Agents** <br>
   *Wang et al., 2024.07*. Generalist AI coding agent platform.
   [[pdf](https://arxiv.org/abs/2407.16741)], [[code](https://github.com/All-Hands-AI/OpenHands)]
@@ -44,15 +47,11 @@ This repository aims to provide a comprehensive and regularly updated collection
   *Xia et al., 2024.07*. Localization, fix, verification.
   [[pdf](https://arxiv.org/abs/2407.01489)], [[code](https://github.com/OpenAutoCoder/Agentless)]
 
-* **mini-SWE-agent** 
-  *2025.05*. [[code](https://github.com/SWE-agent/mini-SWE-agent)]
-
-* **SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering** <br>
-  *Yang et al., 2024.05*. [[pdf](https://arxiv.org/abs/2405.15793)], [[code](https://github.com/SWE-agent/SWE-agent)]
-  
-
 * **Trae Agent: An LLM-based Agent for Software Engineering with Test-time Scaling** <br>
   *Trae Research Team et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.23370)], [[code](https://github.com/bytedance/trae-agent)]
+
+* **mini-SWE-agent** 
+  *2025.05*. [[code](https://github.com/SWE-agent/mini-SWE-agent)]
 
 ---
 
