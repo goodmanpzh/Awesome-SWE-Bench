@@ -144,6 +144,10 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **Repository Structure-Aware Training Makes SLMs Better Issue Resolver** <br>
   *Zhou et al., 2024.12*. [[pdf](https://arxiv.org/abs/2412.19031)]
 
+* **RepoForge: Training a SOTA Fast-thinking SWE Agent with an End-to-End Data Curation Pipeline Synergizing SFT and RL at Scale** <br>
+  *Chen et al., 2025.08*. Training a state-of-the-art fast-thinking software engineering agent via an end-to-end data curation pipeline combining SFT and RL.
+  \[[pdf](https://arxiv.org/abs/2508.01550)]
+
 ---
 
 
@@ -212,6 +216,10 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **Exploring the Potential of Conversational Test Suite Based Program Repair on SWE-bench** <br>
   *Fan et al., 2024.10*. [[pdf](https://arxiv.org/abs/2410.04485)]
 
+* **Co-PatcheR: Collaborative Software Patching with Component(s)-specific Small Reasoning Models** <br>
+  *Tang et al., 2025.05*. Collaborative software patching using component-specific small reasoning models.
+  \[[pdf](https://arxiv.org/abs/2505.18955)]
+
 ---
 
 
@@ -228,6 +236,10 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 * **Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks** <br>
   *Tao et al., 2025.05*. [[pdf](https://arxiv.org/abs/2505.16901)]
+
+* **SWE-Exp: Experience-Driven Software Issue Resolution** <br>
+  *Chen et al., 2025.07*. Experience-driven approach for software issue resolution.
+  \[[pdf](https://arxiv.org/abs/2507.23361)]
 
 ---
 
@@ -260,4 +272,11 @@ This repository aims to provide a comprehensive and regularly updated collection
 ## Contribution
 
 We welcome contributions! There are cases where we miss important works in this field, please feel free to contribute and promote your awesome work or other related works here! Thanks for the efforts in advance.
+
+
+
+
+
+
+
 
