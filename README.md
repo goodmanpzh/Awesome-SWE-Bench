@@ -231,9 +231,6 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **UTBoost: Rigorous Evaluation of Coding Agents on SWE-Bench** <br>
   *Yu et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.09289)], [[code](https://github.com/CUHK-Shenzhen-SE/UTBoost)]
 
-* **SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents** <br>
-  *Mündler et al., 2024*. BenchMark fot Testing Generation. [[pdf](https://arxiv.org/abs/2406.12952)], [[code](https://github.com/logic-star-ai/swt-bench)], [[Leaderboard](https://swtbench.com/)]
-
 * **Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks** <br>
   *Tao et al., 2025.05*. [[pdf](https://arxiv.org/abs/2505.16901)]
 
@@ -271,6 +268,8 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet** <br>
   *Anthropic Engineering, 2025.05*. [[blog](https://www.anthropic.com/engineering/swe-bench-sonnet)]
 
+* **Seed-Coder: Let the Code Model Curate Data for Itself** <br>
+  *ByteDance Seed et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.03524)]
 ---
 
 
