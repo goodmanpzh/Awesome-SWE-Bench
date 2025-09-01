@@ -38,17 +38,17 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 * **OpenHands: An Open Platform for AI Software Developers as Generalist Agents** <br>
   *Wang et al., 2024.07*. Generalist AI coding agent platform.
-  \[[pdf](https://arxiv.org/abs/2407.16741)], \[[code](https://github.com/All-Hands-AI/OpenHands)]
+  [[pdf](https://arxiv.org/abs/2407.16741)], [[code](https://github.com/All-Hands-AI/OpenHands)]
 
 * **Agentless: Demystifying LLM-based Software Engineering Agents** <br>
   *Xia et al., 2024.07*. Localization, fix, verification.
-  \[[pdf](https://arxiv.org/abs/2407.01489)], \[[code](https://github.com/OpenAutoCoder/Agentless)]
+  [[pdf](https://arxiv.org/abs/2407.01489)], [[code](https://github.com/OpenAutoCoder/Agentless)]
 
 * **mini-SWE-agent** 
-  *2025.05*. \[[code](https://github.com/SWE-agent/mini-SWE-agent)]
+  *2025.05*. [[code](https://github.com/SWE-agent/mini-SWE-agent)]
 
 * **SWE-agent** 
-  \[[code](https://github.com/SWE-agent/SWE-agent)]
+  [[code](https://github.com/SWE-agent/SWE-agent)]
 
 * **Trae Agent: An LLM-based Agent for Software Engineering with Test-time Scaling** <br>
   *Trae Research Team et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.23370)], [[code](https://github.com/bytedance/trae-agent)]
@@ -112,22 +112,22 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 * **SWE-Gym: Training Software Engineering Agents and Verifiers with SWE-Gym** <br>
   *Pan et al., 2024.12*. Provides training and evaluation environment for SWE agents.
-  \[[pdf](https://arxiv.org/pdf/2412.21139)], \[[code](https://github.com/SWE-Gym/SWE-Gym)], \[[models](https://huggingface.co/SWE-Gym)]
+  [[pdf](https://arxiv.org/pdf/2412.21139)], [[code](https://github.com/SWE-Gym/SWE-Gym)], [[models](https://huggingface.co/SWE-Gym)]
 
 * **PatchPilot: A Cost-Efficient SWE Agent with Early Formal Verification** <br>
-  *Li et al., 2025.02*. \[[pdf](https://arxiv.org/abs/2502.02747)], \[[code](https://github.com/ucsb-mlsec/PatchPilot)]
+  *Li et al., 2025.02*. [[pdf](https://arxiv.org/abs/2502.02747)], [[code](https://github.com/ucsb-mlsec/PatchPilot)]
 
 * **SWE-Fixer: Training Open-Source LLMs for GitHub Issue Resolution** <br>
-  *Xie et al., 2025.01*. \[[pdf](https://arxiv.org/abs/2501.05040)], \[[code](https://github.com/InternLM/SWE-Fixer)]
+  *Xie et al., 2025.01*. [[pdf](https://arxiv.org/abs/2501.05040)], [[code](https://github.com/InternLM/SWE-Fixer)]
 
 * **SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning** <br>
-  *Ma et al., 2025.02*. \[[pdf](https://arxiv.org/abs/2502.20127)]
+  *Ma et al., 2025.02*. [[pdf](https://arxiv.org/abs/2502.20127)]
 
 * **SWE-Dev: Building SWE Agents with Training and Inference Scaling** <br>
-  *Wang et al., 2025.06*. \[[pdf](https://arxiv.org/abs/2506.07636)], \[[code](https://github.com/THUDM/SWE-Dev)]
+  *Wang et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.07636)], [[code](https://github.com/THUDM/SWE-Dev)]
 
 * **SWE-smith: Scaling Data for Software Engineering Agents** <br>
-  *Yang et al., 2025.04*. \[[pdf](https://arxiv.org/abs/2504.21798)], \[[code](https://github.com/SWE-bench/SWE-smith)], \[[web](https://swesmith.com/)]
+  *Yang et al., 2025.04*. [[pdf](https://arxiv.org/abs/2504.21798)], [[code](https://github.com/SWE-bench/SWE-smith)], [[web](https://swesmith.com/)]
 
 * **Skywork-SWE: Unveiling Data Scaling Laws for Software Engineering in LLMs** <br>
   *Zeng et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.19290)]
@@ -145,8 +145,7 @@ This repository aims to provide a comprehensive and regularly updated collection
   *Zhou et al., 2024.12*. [[pdf](https://arxiv.org/abs/2412.19031)]
 
 * **RepoForge: Training a SOTA Fast-thinking SWE Agent with an End-to-End Data Curation Pipeline Synergizing SFT and RL at Scale** <br>
-  *Chen et al., 2025.08*. Training a state-of-the-art fast-thinking software engineering agent via an end-to-end data curation pipeline combining SFT and RL.
-  \[[pdf](https://arxiv.org/abs/2508.01550)]
+  *Chen et al., 2025.08*. [[pdf](https://arxiv.org/abs/2508.01550)]
 
 ---
 
@@ -157,10 +156,10 @@ This repository aims to provide a comprehensive and regularly updated collection
 ### Agentic Coding
 
 * **SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering** <br>
-  *Yang et al., 2024.05*. \[[pdf](https://arxiv.org/abs/2405.15793)], \[[code](https://github.com/SWE-agent/SWE-agent)]
+  *Yang et al., 2024.05*. [[pdf](https://arxiv.org/abs/2405.15793)], [[code](https://github.com/SWE-agent/SWE-agent)]
 
 * **NEMOTRON-CORTEXA: Enhancing LLM Agents for Software Engineering Tasks via Improved Localization and Solution Diversity** <br>
-  *Sohrabizadeh et al., 2025.05*. \[[pdf](https://openreview.net/pdf?id=k6p8UKRdH7)]
+  *Sohrabizadeh et al., 2025.05*. [[pdf](https://openreview.net/pdf?id=k6p8UKRdH7)]
 
 * **Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute** <br>
   *Ma et al., 2025.03*. [[pdf](https://arxiv.org/abs/2503.23803)], [[code](https://github.com/yingweima2022/SWE-Reasoner)]
@@ -188,19 +187,19 @@ This repository aims to provide a comprehensive and regularly updated collection
 ### Issue Location
 
 * **SweRank: Software Issue Localization with Code Ranking** <br>
-  *Reddy et al., 2025.05*. \[[pdf](https://arxiv.org/abs/2505.07849)]
+  *Reddy et al., 2025.05*. [[pdf](https://arxiv.org/abs/2505.07849)]
 
 * **CoRet: Improved Retriever for Code Editing** <br>
-  *Fehr et al., 2025.05*. \[[pdf](https://arxiv.org/abs/2505.24715)]
+  *Fehr et al., 2025.05*. [[pdf](https://arxiv.org/abs/2505.24715)]
 
 * **CoSIL: Software Issue Localization via LLM-Driven Graph Searching** <br>
-  *Jiang et al., 2025.03*. \[[pdf](https://arxiv.org/abs/2503.22424)], \[[code](https://github.com/ZhonghaoJiang/CoSIL)]
+  *Jiang et al., 2025.03*. [[pdf](https://arxiv.org/abs/2503.22424)], [[code](https://github.com/ZhonghaoJiang/CoSIL)]
 
 * **LocAgent: Graph-Guided LLM Agents for Code Localization** <br>
-  *Chen et al., 2025.03*. \[[pdf](https://arxiv.org/abs/2503.09089)], \[[code](https://github.com/gersteinlab/LocAgent)]
+  *Chen et al., 2025.03*. [[pdf](https://arxiv.org/abs/2503.09089)], [[code](https://github.com/gersteinlab/LocAgent)]
 
 * **The SWE-Bench Illusion: When LLMs Remember Instead of Reason** <br>
-  *Liang et al., 2025.06*. \[[pdf](https://arxiv.org/abs/2506.12286)]
+  *Liang et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.12286)]
 
 ---
 
@@ -211,14 +210,13 @@ This repository aims to provide a comprehensive and regularly updated collection
 ### Bug Fix
 
 * **SWE-Synth: Synthesizing Verifiable Bug-Fix Data** <br>
-  *Pham et al., 2025.04*. \[[pdf](https://arxiv.org/abs/2504.14757)], \[[code](https://github.com/FSoft-AI4Code/SWE-Synth)], \[[dataset](https://huggingface.co/swesynth)]
+  *Pham et al., 2025.04*. [[pdf](https://arxiv.org/abs/2504.14757)], [[code](https://github.com/FSoft-AI4Code/SWE-Synth)], [[dataset](https://huggingface.co/swesynth)]
 
 * **Exploring the Potential of Conversational Test Suite Based Program Repair on SWE-bench** <br>
   *Fan et al., 2024.10*. [[pdf](https://arxiv.org/abs/2410.04485)]
 
 * **Co-PatcheR: Collaborative Software Patching with Component(s)-specific Small Reasoning Models** <br>
-  *Tang et al., 2025.05*. Collaborative software patching using component-specific small reasoning models.
-  \[[pdf](https://arxiv.org/abs/2505.18955)]
+  *Tang et al., 2025.05*. [[pdf](https://arxiv.org/abs/2505.18955)]
 
 ---
 
@@ -229,17 +227,16 @@ This repository aims to provide a comprehensive and regularly updated collection
 ### Other Methods
 
 * **UTBoost: Rigorous Evaluation of Coding Agents on SWE-Bench** <br>
-  *Yu et al., 2025.06*. \[[pdf](https://arxiv.org/abs/2506.09289)], \[[code](https://github.com/CUHK-Shenzhen-SE/UTBoost)]
+  *Yu et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.09289)], [[code](https://github.com/CUHK-Shenzhen-SE/UTBoost)]
 
 * **SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents** <br>
-  *Mündler et al., 2024*. BenchMark fot Testing Generation. [[pdf](https://arxiv.org/abs/2406.12952)], \[[code](https://github.com/logic-star-ai/swt-bench)], \[[Leaderboard](https://swtbench.com/)]
+  *Mündler et al., 2024*. BenchMark fot Testing Generation. [[pdf](https://arxiv.org/abs/2406.12952)], [[code](https://github.com/logic-star-ai/swt-bench)], [[Leaderboard](https://swtbench.com/)]
 
 * **Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks** <br>
   *Tao et al., 2025.05*. [[pdf](https://arxiv.org/abs/2505.16901)]
 
 * **SWE-Exp: Experience-Driven Software Issue Resolution** <br>
-  *Chen et al., 2025.07*. Experience-driven approach for software issue resolution.
-  \[[pdf](https://arxiv.org/abs/2507.23361)]
+  *Chen et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.23361)]
 
 ---
 
@@ -261,7 +258,7 @@ This repository aims to provide a comprehensive and regularly updated collection
 ## Blogs & Talks
 
 * **Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet** <br>
-  *Anthropic Engineering, 2025.05*. \[[blog](https://www.anthropic.com/engineering/swe-bench-sonnet)]
+  *Anthropic Engineering, 2025.05*. [[blog](https://www.anthropic.com/engineering/swe-bench-sonnet)]
 
 ---
 
