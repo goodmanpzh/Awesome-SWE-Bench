@@ -51,7 +51,7 @@ This repository aims to provide a comprehensive and regularly updated collection
   *Trae Research Team et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.23370)], [[code](https://github.com/bytedance/trae-agent)]
 
 * **mini-SWE-agent** 
-  *2025.05*. [[code](https://github.com/SWE-agent/mini-SWE-agent)]
+  *2025.05*. [[code](https://github.com/SWE-agent/mini-SWE-agent)], [[webpage](https://mini-swe-agent.com/latest/quickstart/)]
 
 ---
 
