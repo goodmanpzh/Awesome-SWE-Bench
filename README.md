@@ -33,11 +33,10 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 
 
-
 ## Framework
 
 * **SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering** <br>
-  *Yang et al., 2024.05*. [[pdf](https://arxiv.org/abs/2405.15793)], [[code](https://github.com/SWE-agent/SWE-agent)]  
+  *Yang et al., 2024.05*. [[pdf](https://arxiv.org/abs/2405.15793)], [[code](https://github.com/SWE-agent/SWE-agent)], [[webpage](https://www.swebench.com/SWE-bench/)]
 
 * **OpenHands: An Open Platform for AI Software Developers as Generalist Agents** <br>
   *Wang et al., 2024.07*. Generalist AI coding agent platform.
@@ -54,6 +53,10 @@ This repository aims to provide a comprehensive and regularly updated collection
   *2025.05*. [[code](https://github.com/SWE-agent/mini-SWE-agent)], [[webpage](https://mini-swe-agent.com/latest/quickstart/)]
 
 ---
+
+
+
+
 
 ## Papers
 
