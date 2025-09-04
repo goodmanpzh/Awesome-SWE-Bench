@@ -107,6 +107,9 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **SPICE: An Automated SWE-Bench Labeling Pipeline for Issue Clarity, Test Coverage, and Effort Estimation** <br>
   *Oliva et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.09108)]
 
+* **SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?** <br>
+  *Xinyi He et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.12415)], [[code](https://github.com/swe-perf/swe-perf)], [[webpage](https://swe-perf.github.io/)]
+
 ---
 
 
@@ -133,6 +136,12 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 * **SWE-smith: Scaling Data for Software Engineering Agents** <br>
   *Yang et al., 2025.04*. [[pdf](https://arxiv.org/abs/2504.21798)], [[code](https://github.com/SWE-bench/SWE-smith)], [[web](https://swesmith.com/)]
+
+* **SEAlign: Alignment Training for Software Engineering Agent** <br>
+  *Kechi Zhang et al., 2025.05*. [[pdf](https://arxiv.org/abs/2503.18455)], [[code](https://anonymous.4open.science/r/SWEAlign/README.md)]
+
+* **MCTS-Refined CoT: High-Quality Fine-Tuning Data for LLM-Based Repository Issue Resolution** <br>
+  *Yibo Wang et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.12728)]
 
 * **Skywork-SWE: Unveiling Data Scaling Laws for Software Engineering in LLMs** <br>
   *Zeng et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.19290)], [[model]( https://huggingface.co/Skywork/Skywork-SWE-32Bs)]
