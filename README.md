@@ -204,6 +204,9 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **OrcaLoca: An LLM Agent Framework for Software Issue Localization** <br>
   *Yu et al., 25.02*. [[pdf](https://arxiv.org/abs/2502.00350)], [[code](https://github.com/fishmingyu/OrcaLoca)]
 
+* **Bridging Bug Localization and Issue Fixing: A Hierarchical Localization Framework Leveraging Large Language Models** <br>
+  *Chang et al., 25.02*. [[pdf](https://arxiv.org/abs/2502.15292)]
+
 * **LocAgent: Graph-Guided LLM Agents for Code Localization** <br>
   *Chen et al., 2025.03*. [[pdf](https://arxiv.org/abs/2503.09089)], [[code](https://github.com/gersteinlab/LocAgent)]
 
