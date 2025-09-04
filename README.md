@@ -73,7 +73,7 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 * **A Survey of LLM-based Automated Program Repair: Taxonomies, Design Paradigms, and Applications** <br>
   *Yang et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.23749)]
----
+
 
 
 
@@ -110,7 +110,7 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?** <br>
   *Xinyi He et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.12415)], [[code](https://github.com/swe-perf/swe-perf)], [[webpage](https://swe-perf.github.io/)]
 
----
+
 
 
 
@@ -161,7 +161,7 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **RepoForge: Training a SOTA Fast-thinking SWE Agent with an End-to-End Data Curation Pipeline Synergizing SFT and RL at Scale** <br>
   *Chen et al., 2025.08*. [[pdf](https://arxiv.org/abs/2508.01550)]
 
----
+
 
 
 
@@ -193,7 +193,7 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **SWE-Exp: Experience-Driven Software Issue Resolution** <br>
   *Da et al., 2025.06*. [[pdf](https://arxiv.org/abs/2507.23361)], [[code](https://github.com/YerbaPage/SWE-Exp)]
 
----
+
 
 
 
@@ -213,7 +213,7 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **CoRet: Improved Retriever for Code Editing** <br>
   *Fehr et al., 2025.05*. [[pdf](https://arxiv.org/abs/2505.24715)]
 
----
+
 
 
 
@@ -235,7 +235,7 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 * **Input Reduction Enhanced LLM-based Program Repair** <br>
   *Yang et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.15251)]
----
+
 
 
 
@@ -254,7 +254,7 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 * **The SWE-Bench Illusion: When LLMs Remember Instead of Reason** <br>
   *Liang et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.12286)]
----
+
 
 
 
