@@ -201,6 +201,9 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 ### Issue Location
 
+* **OrcaLoca: An LLM Agent Framework for Software Issue Localization** <br>
+  *Yu et al., 25.02*. [[pdf](https://arxiv.org/abs/2502.00350)], [[code](https://github.com/fishmingyu/OrcaLoca)]
+
 * **LocAgent: Graph-Guided LLM Agents for Code Localization** <br>
   *Chen et al., 2025.03*. [[pdf](https://arxiv.org/abs/2503.09089)], [[code](https://github.com/gersteinlab/LocAgent)]
 
@@ -212,6 +215,7 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 * **CoRet: Improved Retriever for Code Editing** <br>
   *Fehr et al., 2025.05*. [[pdf](https://arxiv.org/abs/2505.24715)]
+
 
 
 
