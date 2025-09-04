@@ -46,10 +46,13 @@ This repository aims to provide a comprehensive and regularly updated collection
   *Xia et al., 2024.07*. Localization, fix, verification.
   [[pdf](https://arxiv.org/abs/2407.01489)], [[code](https://github.com/OpenAutoCoder/Agentless)]
 
+* **SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement** <br>
+  *Antonis Antoniades et al., 2024.10*. [[pdf](https://arxiv.org/abs/2410.20285)], [[code](https://github.com/aorwall/moatless-tools?tab=readme-ov-file)] 
+
 * **Trae Agent: An LLM-based Agent for Software Engineering with Test-time Scaling** <br>
   *Trae Research Team et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.23370)], [[code](https://github.com/bytedance/trae-agent)]
 
-* **mini-SWE-agent** 
+* **mini-swe-agent** 
   *2025.05*. [[code](https://github.com/SWE-agent/mini-SWE-agent)], [[webpage](https://mini-swe-agent.com/latest/quickstart/)]
 
 ---
@@ -99,7 +102,7 @@ This repository aims to provide a comprehensive and regularly updated collection
   *Guo et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.10954)], [[code](https://github.com/DeepSoftwareAnalytics/swe-factory)]
 
 * **SWE-Bench-CL: Continual Learning for Coding Agents** <br>
-  *Kocman et al., 2025.06*. [[pdf](https://arxiv.org/abs/2507.00014)]
+  *Kocman et al., 2025.06*. [[pdf](https://arxiv.org/abs/2507.00014)], [[code](https://github.com/thomasjoshi/agents-never-forget)]
 
 * **SPICE: An Automated SWE-Bench Labeling Pipeline for Issue Clarity, Test Coverage, and Effort Estimation** <br>
   *Oliva et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.09108)]
@@ -132,7 +135,7 @@ This repository aims to provide a comprehensive and regularly updated collection
   *Yang et al., 2025.04*. [[pdf](https://arxiv.org/abs/2504.21798)], [[code](https://github.com/SWE-bench/SWE-smith)], [[web](https://swesmith.com/)]
 
 * **Skywork-SWE: Unveiling Data Scaling Laws for Software Engineering in LLMs** <br>
-  *Zeng et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.19290)]
+  *Zeng et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.19290)], [[model]( https://huggingface.co/Skywork/Skywork-SWE-32Bs)]
 
 * **SWE-Dev: Building SWE Agents with Training and Inference Scaling** <br>
   *Wang et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.07636)], [[code](https://github.com/THUDM/SWE-Dev)]
@@ -141,7 +144,7 @@ This repository aims to provide a comprehensive and regularly updated collection
   *Da et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.11425)]
 
 * **SWE-Flow: Synthesizing Software Engineering Data in a Test-Driven Manner** <br>
-  *Luo et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.09003)]
+  *Luo et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.09003)], [[code](https://github.com/Hambaobao/SWE-Flow)]
 
 * **Training Long-Context, Multi-Turn Software Engineering Agents with Reinforcement Learning** <br>
   *Zhang et al., 2025.08*. [[pdf](https://arxiv.org/abs/2508.03501)]
@@ -167,7 +170,7 @@ This repository aims to provide a comprehensive and regularly updated collection
   *Ma et al., 2025.03*. [[pdf](https://arxiv.org/abs/2503.23803)], [[code](https://github.com/yingweima2022/SWE-Reasoner)]
 
 * **NEMOTRON-CORTEXA: Enhancing LLM Agents for Software Engineering Tasks via Improved Localization and Solution Diversity** <br>
-  *Sohrabizadeh et al., 2025.05*. [[pdf](https://openreview.net/pdf?id=k6p8UKRdH7)]
+  *Sohrabizadeh et al., 2025.05*. [[pdf](https://openreview.net/forum?id=k6p8UKRdH7)], [[code](https://github.com/NVIDIA/Nemotron-CORTEXA?tab=readme-ov-file)], [[webpage](https://research.nvidia.com/labs/adlr/cortexa/)]
 
 * **Guided Search Strategies in Non-Serializable Environments with Applications to Software Engineering Agents** <br>
   *Srinivasa et al., 2025.05*. [[pdf](https://arxiv.org/abs/2505.13652)]
@@ -179,7 +182,7 @@ This repository aims to provide a comprehensive and regularly updated collection
   *Pabba et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.16650)]
 
 * **SWE-Exp: Experience-Driven Software Issue Resolution** <br>
-  *Da et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.23361)]
+  *Da et al., 2025.06*. [[pdf](https://arxiv.org/abs/2507.23361)], [[code](https://github.com/YerbaPage/SWE-Exp)]
 
 ---
 
@@ -219,10 +222,7 @@ This repository aims to provide a comprehensive and regularly updated collection
   *Tang et al., 2025.05*. [[pdf](https://arxiv.org/abs/2505.18955)]
 
 * **Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks** <br>
-  *Tao et al., 2025.05*. [[pdf](https://arxiv.org/abs/2505.16901)]
-
-* **SWE-Exp: Experience-Driven Software Issue Resolution** <br>
-  *Chen et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.23361)]
+  *Tao et al., 2025.05*. [[pdf](https://arxiv.org/abs/2505.16901)], [[code](https://github.com/codefuse-ai/CodeFuse-CGM)]
 
 * **Input Reduction Enhanced LLM-based Program Repair** <br>
   *Yang et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.15251)]
@@ -241,7 +241,7 @@ This repository aims to provide a comprehensive and regularly updated collection
   *Yu et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.09289)], [[code](https://github.com/CUHK-Shenzhen-SE/UTBoost)]
 
 * **Prometheus: Unified Knowledge Graphs for Issue Resolution in Multilingual Codebases** <br>
-  *Chen et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.19942)]
+  *Chen et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.19942)], [[code](https://github.com/EuniAI/Prometheus)]
 
 * **The SWE-Bench Illusion: When LLMs Remember Instead of Reason** <br>
   *Liang et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.12286)]
@@ -269,6 +269,7 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 * **Seed-Coder: Let the Code Model Curate Data for Itself** <br>
   *ByteDance Seed et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.03524)], [[code](https://github.com/ByteDance-Seed/Seed-Coder)]
+
 ---
 
 
