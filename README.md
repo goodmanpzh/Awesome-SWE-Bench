@@ -255,9 +255,7 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **The SWE-Bench Illusion: When LLMs Remember Instead of Reason** <br>
   *Liang et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.12286)]
 
-
-
-
+---
 
 
 ## Resources
