@@ -46,7 +46,7 @@ This repository aims to provide a comprehensive and regularly updated collection
   *Xia et al., 2024.07*. Localization, fix, verification.
   [[pdf](https://arxiv.org/abs/2407.01489)], [[code](https://github.com/OpenAutoCoder/Agentless)]
 
-* **SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement** <br>
+* **Moatless Tools: SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement** <br>
   *Antonis Antoniades et al., 2024.10*. [[pdf](https://arxiv.org/abs/2410.20285)], [[code](https://github.com/aorwall/moatless-tools?tab=readme-ov-file)] 
 
 * **Trae Agent: An LLM-based Agent for Software Engineering with Test-time Scaling** <br>
