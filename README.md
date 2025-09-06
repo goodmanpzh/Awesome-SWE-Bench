@@ -65,15 +65,11 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 ### Survey
 
-* **Challenges and Paths Towards AI for Software Engineering** <br>
-  *Hou et al., 2024.03*. [[pdf](https://arxiv.org/abs/2503.22625)]
-
-* **Software Development Life Cycle Perspective: A Survey of Benchmarks for CodeLLMs and Agents** <br>
-  *Zhu et al., 2024.05*. [[pdf](https://arxiv.org/abs/2505.05283)]
-
 * **A Survey of LLM-based Automated Program Repair: Taxonomies, Design Paradigms, and Applications** <br>
   *Yang et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.23749)]
 
+* **A Survey on Code Generation with LLM-based Agents** <br>
+  *Dong et al., 2025*. [[pdf](https://arxiv.org/abs/2508.00083)], [[code](https://github.com/JiaruQian/awesome-llm-based-agent4code)]
 
 
 
