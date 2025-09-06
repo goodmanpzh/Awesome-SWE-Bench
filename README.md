@@ -69,7 +69,7 @@ This repository aims to provide a comprehensive and regularly updated collection
   *Yang et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.23749)]
 
 * **A Survey on Code Generation with LLM-based Agents** <br>
-  *Dong et al., 2025*. [[pdf](https://arxiv.org/abs/2508.00083)], [[code](https://github.com/JiaruQian/awesome-llm-based-agent4code)]
+  *Dong et al., 2025*. [[pdf](https://arxiv.org/abs/2508.00083)], [[repo](https://github.com/JiaruQian/awesome-llm-based-agent4code)]
 
 
 
@@ -279,6 +279,9 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 * **Seed-Coder: Let the Code Model Curate Data for Itself** <br>
   *ByteDance Seed et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.03524)], [[code](https://github.com/ByteDance-Seed/Seed-Coder)]
+
+* **LongCat-Flash Technical Report** <br>
+  *Meituan LongCat Team et al., 2025*. [[pdf](https://arxiv.org/abs/2509.01322)], [[repo](https://github.com/meituan-longcat/LongCat-Flash-Chat)]
 
 ---
 
