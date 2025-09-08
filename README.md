@@ -215,6 +215,11 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **CoRet: Improved Retriever for Code Editing** <br>
   *Fehr et al., 2025.05*. [[pdf](https://arxiv.org/abs/2505.24715)]
 
+* **SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution** <br>
+  *Li et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.23348)], [[code](https://github.com/YerbaPage/SWE-Debate)]
+
+* **Tool-integrated Reinforcement Learning for Repo Deep Search** <br>
+  *Ma et al., 2025.08*. [[pdf](https://arxiv.org/abs/2508.03012)]
 
 
 
