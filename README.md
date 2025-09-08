@@ -219,7 +219,7 @@ This repository aims to provide a comprehensive and regularly updated collection
   *Li et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.23348)], [[code](https://github.com/YerbaPage/SWE-Debate)]
 
 * **Tool-integrated Reinforcement Learning for Repo Deep Search** <br>
-  *Ma et al., 2025.08*. [[pdf](https://arxiv.org/abs/2508.03012)]
+  *Ma et al., 2025.08*. [[pdf](https://arxiv.org/abs/2508.03012)], [[code](https://github.com/Mizersy/RepoDeepSearch/tree/main)]
 
 
 
