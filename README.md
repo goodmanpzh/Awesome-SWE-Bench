@@ -210,7 +210,7 @@ This repository aims to provide a comprehensive and regularly updated collection
   *Jiang et al., 2025.03*. [[pdf](https://arxiv.org/abs/2503.22424)], [[code](https://github.com/ZhonghaoJiang/CoSIL)]
 
 * **SweRank: Software Issue Localization with Code Ranking** <br>
-  *Reddy et al., 2025.05*. [[pdf](https://arxiv.org/abs/2505.07849)]
+  *Reddy et al., 2025.05*. [[pdf](https://arxiv.org/abs/2505.07849)], [[code](https://github.com/SalesforceAIResearch/SweRank)]
 
 * **CoRet: Improved Retriever for Code Editing** <br>
   *Fehr et al., 2025.05*. [[pdf](https://arxiv.org/abs/2505.24715)]
