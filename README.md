@@ -197,6 +197,9 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 ### Issue Location
 
+* **BLAZE: Cross-Language and Cross-Project Bug Localization via Dynamic Chunking and Hard Example Learning** <br>
+  *Chakraborty, Alfadel, & Nagappan, 2024.07*. [[paper](https://arxiv.org/abs/2407.17631)]  
+
 * **OrcaLoca: An LLM Agent Framework for Software Issue Localization** <br>
   *Yu et al., 25.02*. [[pdf](https://arxiv.org/abs/2502.00350)], [[code](https://github.com/fishmingyu/OrcaLoca)]
 
