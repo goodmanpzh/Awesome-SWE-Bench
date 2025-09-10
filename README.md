@@ -200,6 +200,9 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **BLAZE: Cross-Language and Cross-Project Bug Localization via Dynamic Chunking and Hard Example Learning** <br>
   *Chakraborty, Alfadel, & Nagappan, 2024.07*. [[paper](https://arxiv.org/abs/2407.17631)]  
 
+* **CoRNStack: High-Quality Contrastive Data for Better Code Retrieval and Reranking** <br>  
+  *Suresh et al., 2024.12*. [[paper](https://arxiv.org/abs/2412.01007)], [[code](https://github.com/gangiswag/cornstack)]
+
 * **OrcaLoca: An LLM Agent Framework for Software Issue Localization** <br>
   *Yu et al., 25.02*. [[pdf](https://arxiv.org/abs/2502.00350)], [[code](https://github.com/fishmingyu/OrcaLoca)]
 
