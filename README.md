@@ -15,17 +15,17 @@ This repository aims to provide a comprehensive and regularly updated collection
 ## 📑 Content
 
 * [🧩 Framework](#-framework)
-* [📄 Papers](#papers)
-  * [📚 Survey](#survey)
-  * [📊 Benchmark](#benchmark)
-  * [🎯 Training & Fine-tuning](#training--fine-tuning)
-  * [🤖 Agentic Coding](#agentic-coding)
-  * [🗂️ Issue Location](#issue-location)
-  * [🐞 Bug Fix](#bug-fix)
-  * [🌀 Other Methods](#other-methods)
-* [📦 Resources](#resources)
-* [📝 Blogs & Talks](#blogs--talks)
-* [🤝 Contribution](#contribution)
+* [📄 Papers](#-papers)
+  * [📚 Survey](#-survey)
+  * [📊 Benchmark](#-benchmark)
+  * [🎯 Training & Fine-tuning](#-training--fine-tuning)
+  * [🤖 Agentic Coding](#-agentic-coding)
+  * [🗂️ Issue Location](#-issue-location)
+  * [🐞 Bug Fix](#-bug-fix)
+  * [🌀 Other Methods](#-other-methods)
+* [📦 Resources](#-resources)
+* [📝 Blogs & Talks](#-blogs--talks)
+* [🤝 Contribution](#-contribution)
 
 ---
 
