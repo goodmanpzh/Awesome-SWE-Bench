@@ -1,4 +1,4 @@
-# Awesome SWE-Bench Research
+# 🚀 Awesome SWE-Bench Research
 
 A curated list of research papers, benchmark, frameworks, and resources related to **SWE-Bench** and large language models for software engineering.
 This repository aims to provide a comprehensive and regularly updated collection of works on evaluation, methods, and applications.
@@ -15,25 +15,25 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 ## Content
 
-* [Framework](#framework)
-* [Papers](#papers)
-  * [Survey](#survey)
-  * [Benchmark](#benchmark)
-  * [Training & Fine-tuning](#training--fine-tuning)
-  * [Agentic Coding](#agentic-coding)
-  * [Issue Location](#issue-location)
-  * [Bug Fix](#bug-fix)
-  * [Other Methods](#other-methods)
-* [Resources](#resources)
-* [Blogs & Talks](#blogs--talks)
-* [Contribution](#contribution)
+* [🧩 Framework](#-framework)
+* [📄 Papers](#-papers)
+  * [📚 Survey](#-survey)
+  * [📊 Benchmark](#-benchmark)
+  * [🎯 Training & Fine-tuning](#-training--fine-tuning)
+  * [🤖 Agentic Coding](#-agentic-coding)
+  * [🗂️ Issue Location](#-issue-location)
+  * [🐞 Bug Fix](#-bug-fix)
+  * [🌀 Other Methods](#-other-methods)
+* [📦 Resources](#-resources)
+* [📝 Blogs & Talks](#-blogs--talks)
+* [🤝 Contribution](#-contribution)
 
 ---
 
 
 
 
-## Framework
+## 🧩 Framework
 
 * **SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering** <br>
   *Yang et al., 2024.05*. [[pdf](https://arxiv.org/abs/2405.15793)], [[code](https://github.com/SWE-agent/SWE-agent)], [[swe bench webpage](https://www.swebench.com/SWE-bench/)], [[swe bench leaderboard](https://www.swebench.com/)]
@@ -59,11 +59,9 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 
 
+## 📄 Papers
 
-
-## Papers
-
-### Survey
+### 📚 Survey
 
 * **A Survey of LLM-based Automated Program Repair: Taxonomies, Design Paradigms, and Applications** <br>
   *Yang et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.23749)]
@@ -74,7 +72,7 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 
 
-### Benchmark
+### 📊 Benchmark
 
 * **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?** <br>
   *Jimenez et al., 2023.10*. [[pdf](https://arxiv.org/abs/2310.06770)], [[code](https://github.com/SWE-bench/SWE-bench/tree/main)], [[leaderboard](https://www.swebench.com/)], [[dataset](https://huggingface.co/datasets/princeton-nlp/SWE-bench)]
@@ -112,7 +110,7 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 
 
-### Training & Fine-tuning
+### 🎯 Training & Fine-tuning
 
 * **SWE-Gym: Training Software Engineering Agents and Verifiers with SWE-Gym** <br>
   *Pan et al., 2024.12*. Provides training and evaluation environment for SWE agents.
@@ -163,7 +161,7 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 
 
-### Agentic Coding
+### 🤖 Agentic Coding
 
 * **SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering** <br>
   *Yang et al., 2024.05*. [[pdf](https://arxiv.org/abs/2405.15793)], [[code](https://github.com/SWE-agent/SWE-agent)]
@@ -195,7 +193,7 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 
 
-### Issue Location
+### 🗂️ Issue Location
 
 * **BLAZE: Cross-Language and Cross-Project Bug Localization via Dynamic Chunking and Hard Example Learning** <br>
   *Chakraborty, Alfadel, & Nagappan, 2024.07*. [[paper](https://arxiv.org/abs/2407.17631)]  
@@ -233,7 +231,7 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 
 
-### Bug Fix
+### 🐞 Bug Fix
 
 * **Exploring the Potential of Conversational Test Suite Based Program Repair on SWE-bench** <br>
   *Fan et al., 2024.10*. [[pdf](https://arxiv.org/abs/2410.04485)]
@@ -255,7 +253,7 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 
 
-### Other Methods
+### 🌀 Other Methods
 
 * **Enhancing Repository-Level Software Repair via Repository-Aware Knowledge Graphs** <br>
   *Yang et al., 2025.03*. [[pdf](https://arxiv.org/abs/2503.21710)]
@@ -272,7 +270,7 @@ This repository aims to provide a comprehensive and regularly updated collection
 ---
 
 
-## Resources
+## 📦 Resources
 
 * [SWE-bench Leaderboard](https://www.swebench.com/)
 * [Awesome-LLM-SWE-Bench](https://github.com/wasiahmad/Awesome-LLM-SWE-Bench)
@@ -283,7 +281,7 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 
 
-## Blogs & Talks
+## 📝 Blogs & Talks
 
 * **Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet** <br>
   *Anthropic Engineering, 2025.05*. [[blog](https://www.anthropic.com/engineering/swe-bench-sonnet)]
@@ -299,21 +297,8 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 
 
-## Contribution
+## 🤝 Contribution
 
 We welcome contributions! There are cases where we miss important works in this field, please feel free to contribute and promote your awesome work or other related works here! Thanks for the efforts in advance.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
