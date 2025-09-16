@@ -15,7 +15,7 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 ## Content
 
-* [🧩 Framework](#-framework)
+* [🧩 Framework](framework)
 * [📄 Papers](#-papers)
   * [📚 Survey](#-survey)
   * [📊 Benchmark](#-benchmark)
