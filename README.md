@@ -190,8 +190,6 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 
 
-
-
 ### 🗂️ Issue Location
 
 * **BLAZE: Cross-Language and Cross-Project Bug Localization via Dynamic Chunking and Hard Example Learning** <br>
