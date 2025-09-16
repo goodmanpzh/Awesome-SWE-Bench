@@ -20,7 +20,7 @@ This repository aims to provide a comprehensive and regularly updated collection
   * [📊 Benchmark](#-benchmark)
   * [🎯 Training & Fine-tuning](#-training--fine-tuning)
   * [🤖 Agentic Coding](#-agentic-coding)
-  * [🗂️ Issue Location](#-issue-location)
+  * [🗂️ Issue Location](#%EF%B8%8F-issue-location)
   * [🐞 Bug Fix](#-bug-fix)
   * [🌀 Other Methods](#-other-methods)
 * [📦 Resources](#-resources)
