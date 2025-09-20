@@ -1,4 +1,4 @@
-# 🚀 Awesome SWE-Bench Research
+# 🚀 Awesome LLM SWE Research
 
 A curated list of research papers, benchmark, frameworks, and resources related to **SWE-Bench** and large language models for software engineering.
 This repository aims to provide a comprehensive and regularly updated collection of works on evaluation, methods, and applications.
